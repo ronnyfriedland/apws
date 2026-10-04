@@ -19,6 +19,11 @@ The project consists of five repositories:
 
 The system is designed to run on a Raspberry Pi and uses Docker-based services wherever possible.
 
+## Contributors
+
+- https://github.com/kerstinli
+- https://github.com/ronnyfriedland
+
 ## Architecture
 
 ![image](apws-architecture.png "Architecture")
